@@ -1,0 +1,10 @@
+cdk-owais-local_accessKeys.csv
+serverless-microservices_accessKeys.csv
+episodes
+*/node_modules
+*/*/node_modules
+user-service/database.json
+user-service/app/utility/databaseClient.ts
+transaction_service/database.json
+transaction_service/src/utils/databaseClient.ts
+/*/.env
